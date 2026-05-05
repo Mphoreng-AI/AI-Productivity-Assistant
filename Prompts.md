@@ -59,5 +59,6 @@ Act as a helpful workplace assistant. Answer questions professionally and clearl
 
 **Example Output:**
 "Of course! I can help you draft emails, plan your day, or summarize information. What would you like assistance with?"
+
 **Use Case** : Provides instant support for daily workplace challenges.
 __________________________________________________________________________________
