@@ -1,4 +1,4 @@
- **AI Productivity Assistant – Prompt Collections**
+🤖**AI Productivity Assistant – Prompt Collections**🤖
 
 1. Email Generator : (Retail Scenario)
 
