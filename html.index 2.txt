@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sonic Kids Creative Corner</title>
+
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            background: linear-gradient(to bottom, #87CEFA, #fff);
+            text-align: center;
+        }
+
+        header {
+            background-color: #007BFF;
+            padding: 25px;
+            color: white;
+        }
+
+        header h1 {
+            font-size: 30px;
+        }
+
+        nav {
+            background-color: #FFD700;
+            padding: 10px;
+        }
+
+        nav a {
+            margin: 10px;
+            text-decoration: none;
+            color: #000;
+            font-weight: bold;
+        }
+
+        section {
+            padding: 20px;
+        }
+
+        .card {
+            background: white;
+            padding: 20px;
+            margin: 15px;
+            border-radius: 15px;
+            box-shadow: 0 3px 8px rgba(0,0,0,0.15);
+        }
+
+        .sonic {
+            font-size: 50px;
+        }
+
+        footer {
+            background-color: #007BFF;
+            padding: 10px;
+            color: white;
+        }
+
+        button {
+            background-color: #FF4500;
+            color: white;
+            border: none;
+            padding: 10px 20px;
+            border-radius: 20px;
+            cursor: pointer;
+            margin-top: 10px;
+        }
+
+        button:hover {
+            background-color: #ff2200;
+        }
+    </style>
+</head>
+
+<body>
+
+<header>
+    <h1>💙 Sonic Kids Creative Corner</h1>
+    <p>Run Fast • Paint Bright • Have Fun!</p>
+</header>
+
+<nav>
+    <a href="#about">About</a>
+    <a href="#activities">Activities</a>
+    <a href="#contact">Contact</a>
+</nav>
+
+<section id="about">
+    <div class="card">
+        <h2>About Us</h2>
+        <p>Inspired by speed and creativity, our Sonic-themed kids space is designed for fun, learning, and imagination. Kids can paint, draw, and enjoy exciting creative activities!</p>
+        <div class="sonic">🌀💙</div>
+    </div>
+</section>
+
+<section id="activities">
+    <h2>Our Activities</h2>
+
+    <div class="card">🎨 Sonic Painting Sessions</div>
+    <div class="card">🖍️ Coloring & Drawing Fun</div>
+    <div class="card">🏁 Creative Games & Play</div>
+
+    <button onclick="alert('Let’s go fast and create! 🎨💙')">Join the Fun</button>
+</section>
+
+<section id="contact">
+    <div class="card">
+        <h2>Contact Us</h2>
+        <p>Email: mphoreng21@gmail.com</p>
+        <p>Phone: 0631669071</p>
+    </div>
+</section>
+
+<footer>
+    <p>© 2026 Sonic Kids Creative Corner 💙</p>
+</footer>
+
+</body>
+</html>
